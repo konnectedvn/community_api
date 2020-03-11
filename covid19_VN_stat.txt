@@ -1,1 +1,1 @@
-{"ma":"VNALL","soCaNhiem":"35","tuVong":"0","nghiNhiem":"210","binhPhuc":"16","on":"Wed Mar 11 11:59:54 +07 2020"}
+{"ma":"VNALL","soCaNhiem":"35","tuVong":"0","nghiNhiem":"210","binhPhuc":"16","on":"Wed Mar 11 12:00:24 +07 2020"}
